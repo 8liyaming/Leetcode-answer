@@ -43,7 +43,7 @@ nums中不等于val的元素数量为k，要通过此题，您需要执行以下
 19.【isValid.c】20. 有效的括号：给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串s，判断字符串是否有效。有效字符串需满足：左括号必须用相同类型的右括号闭合。左括号必须以正确的顺序闭合；
 每个右括号都有一个对应的相同类型的左括号。
 
-20.【queue2stack.c】225. 用队列实现栈：请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通栈的全部四种操作（push、top、pop和empty）。实现MyStack类：void push(int x) 将元素x压入栈顶。int pop()移除并返回栈顶元素。int top()返回栈顶元素。bool eanempty() 如果栈是空的，返回true；否则返回false。
+20.【queue2stack.c】225. 用队列实现栈：请你仅使用两个队列实现一个后入先出（LIFO）的栈，并支持普通栈的全部四种操作（push、top、pop和empty）。实现MyStack类：void push(int x) 将元素x压入栈顶。int pop()移除并返回栈顶元素。int top()返回栈顶元素。bool eanempty() 如果栈是空的，返回true；否则返回false；
 
 21.【stack2queue.c】232. 用栈实现队列：请你仅使用两个栈实现先入先出队列。队列应当支持一般队列支持的所有操作（push、pop、peek、empty）。实现MyQueue类：void push(int x) 将元素x推到队列的末尾。int pop()从队列的开头移除并返回元素。int peek()返回队列开头的元素。bool eanempty()如果队列为空，返回true；否则返回false。
 
